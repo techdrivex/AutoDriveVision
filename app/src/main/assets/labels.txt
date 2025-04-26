@@ -1,0 +1,10 @@
+person
+car
+truck
+bus
+motorcycle
+bicycle
+traffic light
+stop sign
+speed limit
+pedestrian crossing 

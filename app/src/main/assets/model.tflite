@@ -1,0 +1,4 @@
+# This is a placeholder for the TensorFlow Lite model
+# You should replace this with an actual .tflite model file
+# For example, you can use a pre-trained model from TensorFlow Hub
+# or train your own model using TensorFlow 

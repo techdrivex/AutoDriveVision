@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoDriveVision</string>
+    <string name="camera_permission_required">Camera permission is required for this app to function</string>
+    <string name="camera_permission_denied">Camera permission was denied. Please enable it in settings.</string>
+</resources> 
